@@ -7,7 +7,7 @@ fi
 
 TMPDIR=openwrt_rootfs
 OUTDIR=/root/dockerx/dockerimages
-IMG_NAME=piaoyizy/openwrt-aarch64
+IMG_NAME=vagexabc/openwrt-aarch64
 
 [ -d "$TMPDIR" ] && rm -rf "$TMPDIR"
 
